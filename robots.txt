@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://findoristudio.github.io/iemt-opleiding-kiezen/sitemap.xml
