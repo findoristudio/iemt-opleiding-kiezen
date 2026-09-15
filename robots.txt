@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: DEPLOY_BASE_URL/sitemap.xml
+Sitemap: https://iemt-in-gewone-taal.vercel.app/sitemap.xml
